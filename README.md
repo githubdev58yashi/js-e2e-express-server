@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/sf9519/new%20pipeline/_apis/build/status%2Fgithubdev58yashi.js-e2e-express-server?branchName=main)](https://dev.azure.com/sf9519/new%20pipeline/_build/latest?definitionId=1&branchName=main)
 ---
 page_type: sample
 languages:
